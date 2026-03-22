@@ -1,3 +1,7 @@
+[🇺🇸 for English - Google Translate →](https://translate.google.co.jp/?hl=ja&sl=ja&tl=en&text=https%3A%2F%2Fgithub.com%2Fchoiizuka%2FThe-Mathematical-Modeling-of-SNS-Misery-Prevalence-2026-%2Fblob%2Fmain%2FREADME.md&op=translate)
+
+---
+
 # The-Mathematical-Modeling-of-SNS-Misery-Prevalence-2026-
 The Mathematical Modeling of SNS Misery Prevalence (2026):「SNSにおける不幸の蔓延の数理モデル化（2026）」
 
